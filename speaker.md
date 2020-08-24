@@ -31,4 +31,4 @@ circuit anything.
 In QMK you need to enable audio `AUDIO_ENABLE = yes` and `#define C6_AUDIO`,
 see [Documentation: QMK Firmware - Audio](https://docs.qmk.fm/#/feature_audio).
 You can't both have [RBG Underglow](rgb-underglow.md) and _Audio_ enabled at
-the same time since the firmware will be to large to fit in a Pro Micro.
+the same time since the firmware will be too large to fit in a Pro Micro.
